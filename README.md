@@ -18,8 +18,16 @@ Landing Scroll is a static landing page designed to create a smooth and interact
 - **CSS**: Styling and responsive design.
 - **JavaScript**: Scroll functionality and interactive effects.
 
-## Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/intxaurtietadev/landingscroll.git
+## Usage
+
+Feel free to adapt this project as a base for custom landing pages or single-page applications with scrolling animations. Customize the content and styling to fit different use cases.
+
+## Future Improvements
+
+    Content Sections: Expand content to create a fuller layout.
+    Backend Integration: Add forms or interactivity if connected to a backend.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and open a pull request to suggest improvements.
